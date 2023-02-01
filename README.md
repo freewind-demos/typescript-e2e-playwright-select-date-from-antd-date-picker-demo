@@ -1,11 +1,11 @@
-TypeScript React Hello World Demo
+TypeScript E2E playwright Select Date from Antd DatePicker Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+使用playwright在antd中选择指定日期。由于当前时间是不确定的，所以在e2e测试中需要一种确定的方式来选择日期。
 
 ```
 npm install
-npm run demo
+npm run e2e
 ```
 
 It will open page on browser automatically.
